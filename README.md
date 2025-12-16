@@ -12,7 +12,7 @@ This work uses five publicly available datasets.
 Only dataset links and descriptions are provided; datasets are **not hosted** in this repository.
 
 Detailed dataset information is available in:  
-📁 `datasets/README.md`
+📁 `datasets/data_acquisition`
 
 **Datasets used:**
 - Apple Leaf Disease Dataset  
