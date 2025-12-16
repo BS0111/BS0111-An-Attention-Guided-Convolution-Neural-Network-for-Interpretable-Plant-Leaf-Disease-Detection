@@ -3,7 +3,7 @@
 This project uses the following publicly available datasets:
 
 ## 1. Apple Leaf Disease Dataset
-Link: [https://<dataset-link>](https://www.kaggle.com/c/plant-pathology-2020-fgvc7)
+Link: (https://www.kaggle.com/c/plant-pathology-2020-fgvc7)
 
 ## 2. PlantVillage Dataset
 Link: [https://<dataset-link>](https://arxiv.org/abs/1511.08060)
