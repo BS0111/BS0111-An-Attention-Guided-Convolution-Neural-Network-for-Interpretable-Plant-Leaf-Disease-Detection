@@ -53,9 +53,8 @@ Experimental results for each dataset are stored separately.
 
 📁 `results/`
 
-Each dataset folder contains:
-- Quantitative evaluation metrics
-- Visual results and explainability outputs (where applicable)
+ Folder contains:
+-Visual results and explainability across datasets.
 
 
 
