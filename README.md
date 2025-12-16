@@ -29,7 +29,8 @@ Detailed dataset information is available in:
 - **Attention Mechanism:** Convolutional Block Attention Module (CBAM)  
 - **Framework:** PyTorch  
 
-The same model architecture is trained and evaluated across all datasets.
+The same CBAM-VGG16 model implementation is used across all five datasets, with dataset-specific configurations handled during training and evaluation.
+
 
 Model implementation and training scripts are available in:  
 📁 `model/`
