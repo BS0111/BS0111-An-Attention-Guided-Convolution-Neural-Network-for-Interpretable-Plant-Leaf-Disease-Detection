@@ -56,6 +56,20 @@ Experimental results for each dataset are stored separately.
  Folder contains:
 -Visual results and explainability across datasets.
 
+## Citation
+
+If you use this repository in your research, please cite the following work:
+
+@article{Interpretable2025,
+  title={Interpretable Plant Leaf Disease Detection Using Attention-Enhanced CNN},
+  author={Balram Singh and Ram Prakash Sharma and Somnath Dey},
+  journal={XX},
+  year={2025},
+  volume={XX},
+  pages={XX--XX},
+}
+
+
 
 
 
