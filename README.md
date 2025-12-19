@@ -1,4 +1,4 @@
-# An Attention-Guided Convolution Neural Network for Interpretable Plant Leaf Disease Detection
+# Interpretable Plant Leaf Disease Detection Using Attention-Enhanced CNN
 
 ## Description
 This repository presents an **explainable deep learning framework for plant leaf disease classification and localization**. The proposed approach is based on a **CBAM-VGG16 architecture**, where the VGG16 backbone is enhanced with **Convolutional Block Attention Modules (CBAM)** at all convolutional stages to improve feature representation, disease localization, and interpretability.
